@@ -17,7 +17,7 @@ Visual Studio Code
 5) Run the program.
 
 ## PROGRAM:
-
+```
 java
 <!doctype html>
 <title>Example</title>
@@ -62,7 +62,7 @@ header, footer, article, nav, div {
   <footer id="pageFooter">Footer</footer>
 </body>
 
-
+```
 
 ## OUTPUT:
 
